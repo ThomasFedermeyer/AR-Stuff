@@ -1,0 +1,16 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '13.4'
+
+target 'AR surface Tarcking' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+	
+  # Pods for AR surface Tarcking
+pod 'Firebase'
+pod 'Firebase/Core'
+pod 'Firebase/Auth'
+pod 'Firebase/Analytics'
+pod 'Firebase/Firestore'
+
+	
+end
