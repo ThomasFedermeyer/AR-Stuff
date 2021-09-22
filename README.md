@@ -43,4 +43,10 @@ improving the gameplay
 4) scale the balls based on the size of the arena 
 5) add a good starting paturn for the balls and tell the player which are theirs
 
+https://developer.apple.com/documentation/gamekit
 
+https://developer.apple.com/documentation/gamekit/finding_multiple_players_for_a_game
+
+https://developer.apple.com/documentation/gamekit/exchanging_your_game_data_between_players
+
+https://developer.apple.com/documentation/gamekit/gkmatch
