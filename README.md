@@ -12,6 +12,8 @@ improving the data format
    one and actualy destoy them
 3) for the ending check when the 8-ball get hit in and then check to see if all the players balls 
    have been destoryed if not they lose 
+4) create create function because the way i have it set up right now is ass and i all the walls 
+   and balls are being created septeratly
    
 
 arena improvemt 
@@ -35,4 +37,10 @@ UI
 improving the gameplay
 
 1) add nice pysics what i have right now sucks ass
+2) add a vertical vector when a ball touches the bottom/floor so the ball doesnt get stuck there 
+3) add alow the player to angle the phone veriacaly and get data from that to implamet into the 
+   create ball function for a vertial aspect of the vecotr 
+4) scale the balls based on the size of the arena 
+5) add a good starting paturn for the balls and tell the player which are theirs
+
 
